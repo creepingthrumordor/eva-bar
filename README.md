@@ -6,4 +6,4 @@
   <img src="showcase/showcase1.png" alt="showcase 1">
 </p>
 
-## No Installation Command Yet. Just Copy Paste The Entire Folder In .config/omarchy/plugins
+No install command available yet! Just copy and paste the whole folder into .config/omarchy/plugins.
